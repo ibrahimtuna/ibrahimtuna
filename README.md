@@ -14,7 +14,7 @@ At Sectran, a leading logistic SaaS platform utilized by renowned brands like Sa
 # Bluecap - AI Assistance for Online Meetings
 During my time at Bluecap, an AI assistance platform for online meetings, I worked as a ReactJS developer primarily responsible for developing CRM & Analytics tools. In addition to front-end development, I also provided support to the backend team, utilizing NodeJS and cloud solutions. Working with AI models provided me with valuable exposure to cutting-edge technologies and helped me develop a deep understanding of integrating AI into real-world applications.
 
-#Farktor - E-commerce SaaS
+# Farktor - E-commerce SaaS
 Farktor is an e-commerce SaaS provider offering websites, mobile apps, and warehouse control systems. In this project, I played a crucial role as a consultant and mentor. I assisted in onboarding junior developers, helping them adapt to the project's requirements and best practices. Furthermore, I worked closely with our clients, creating customizable React Native apps to meet their specific needs. This experience allowed me to develop strong leadership and communication skills, while also honing my expertise in building scalable e-commerce solutions.
 
 I am constantly seeking opportunities to learn and grow as a developer. I thrive in collaborative environments and enjoy tackling complex challenges. With a strong foundation in front-end development, back-end proficiency, and a keen interest in AI, I am eager to contribute my skills and knowledge to develop innovative and impactful software solutions.
