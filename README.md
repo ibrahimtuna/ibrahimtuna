@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# About Me:
 
 Hello! I'm Ibrahim, a software developer with experience in building innovative solutions for top brands. 
 I specialize in front-end development using ReactJS and React Native, and I also have experience in backend development with NodeJS and cloud solutions. 
