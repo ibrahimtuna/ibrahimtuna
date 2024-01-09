@@ -26,12 +26,12 @@ Feel free to explore my GitHub repositories to see some of the projects I have w
 [Meet The Music - IOS & Android App](https://apps.apple.com/tr/app/meet-the-music-chat-dating/id1488672111)<br />
 [Digital Giant - WebApp](https://www.digital-giant.com/)<br />
 [SimplySay - WebApp](https://www.simplysay.com/)<br />
-[Bluecap.ai - CRM & Human-like meeting assistant augmented with AI](https://bluecap.ai)<br />
+[Bluecap.ai - WebApp](https://bluecap.ai)<br />
 [Vatkalı - IOS & Android App](https://apps.apple.com/tr/app/vatkali/id6446801830?l=tr)<br />
 [PaulMark - IOS & Android App](https://apps.apple.com/tr/app/paulmark/id1504836548?l=tr)<br />
 [eChima - IOS & Android App](https://apps.apple.com/tr/app/echima/id1549640658)<br />
 [SECTRAN - WebApp](https://v2.sectran.eu/)<br />
-[GoIdea - NFT Marketplace](https://goidea.io/)<br />
+[GoIdea - WebApp](https://goidea.io/)<br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hibrahimtuna/) 
