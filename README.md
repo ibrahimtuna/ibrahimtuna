@@ -21,6 +21,11 @@ I am constantly seeking opportunities to learn and grow as a developer. I thrive
 
 Feel free to explore my GitHub repositories to see some of the projects I have worked on. If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out.
 
+## 💻 Contributed Projects:
+[![GoIdea](https://goidea.io/goidea.svg)](https://goidea.io/)
+[![Bluecap](https://www.bluecap.ai/img/fav-icon.png)](https://bluecap.ai/) 
+[![Meet The Music](https://meetthemusicapp.com/wp-content/uploads/2023/03/cropped-logo-light-1-32x32.png)](https://meetthemusicapp.com/) 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hibrahimtuna/) 
