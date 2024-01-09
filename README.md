@@ -25,6 +25,7 @@ Feel free to explore my GitHub repositories to see some of the projects I have w
 [![GoIdea](https://goidea.io/goidea.svg)](https://goidea.io/)
 [![Bluecap](https://www.bluecap.ai/img/fav-icon.png)](https://bluecap.ai/) 
 [![Meet The Music](https://meetthemusicapp.com/wp-content/uploads/2023/03/cropped-logo-light-1-32x32.png)](https://meetthemusicapp.com/) 
+[![Sectran](https://v2.sectran.eu/wp-content/uploads/2022/09/fav-150x150.png)](https://v2.sectran.eu/) 
 
 
 ## 🌐 Socials:
